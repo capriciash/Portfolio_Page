@@ -1,13 +1,17 @@
 
 body {
   background-color: #904665;
-  padding: 20px;
+  margin: 30px;
 }
 
 p.info{
   font-family: georgia
 }
 
-row {
-  background-color: solid green;
+.col-md-4, .col-md-3 {
+  border-style: solid;
+  border-color: solid green;
+  border-width: 1px;
+  margin: 4px;
+  background-color: white;
 }
