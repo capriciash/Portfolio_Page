@@ -19,16 +19,16 @@ h3 {
   text-align: center;
 }
 
-.row #banner {
+#banner {
   background-color: #2E2E2E;
 
 }
-p.info{
+p.info, ol, ul {
   font-family: georgia
 }
 
-.col-md-4 {
-  padding: 3px
+.col-md-4, .col-md-8 {
+  padding: 5px
 }
 
 img {
