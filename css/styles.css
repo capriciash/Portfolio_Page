@@ -28,16 +28,16 @@ p.info, ol, ul {
   font-family: georgia
 }
 
+.info .important {
+  font-style: italic;
+}
+
 .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8 {
   padding: 5px
 }
 
 .language {
   font-weight: bold;
-}
-
-.important {
-  font-style: italic;
 }
 
 a {
