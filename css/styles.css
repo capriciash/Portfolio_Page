@@ -4,11 +4,38 @@ body {
   margin: 30px;
 }
 
+.col-md-11 {
+  background-color: #2E2E2E;
+  border:
+  border: 4px
+  margin: 4px
+}
+
+.header {
+  color: white;
+}
+
+h3 {
+  text-align: center;
+}
+
+.row #banner {
+  background-color: #2E2E2E;
+
+}
 p.info{
   font-family: georgia
 }
 
-.col-md-4, .col-md-3 {
+.col-md-4 {
+  padding: 3px
+}
+
+img {
+  height: auto;
+  width: 90%;
+}
+.row {
   border-style: solid;
   border-color: solid green;
   border-width: 1px;
